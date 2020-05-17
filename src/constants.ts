@@ -1,4 +1,4 @@
-export const MIN_TRANSLATE_Y = -200;
+export const MIN_TRANSLATE_Y = -500;
 export const MAX_TRANSLATE_Y = 0;
 export const DEFAULT_DURATION = 3000;
 export const DEFAULT_ANIMATION_DURATION = 300;
